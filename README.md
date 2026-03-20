@@ -1,4 +1,4 @@
-# Gabriel Moreira Araujo — Teste Front-End (Econverse)
+# Gilmar Pereira da Cruz Junior — Teste Front-End (Econverse)
 
 Vitrine de produtos desenvolvida em **React + TypeScript** com **SASS/SCSS**, consumindo o JSON público da Econverse e exibindo os detalhes do produto em um **modal** ao clicar no card. O layout segue o arquivo do **Figma** fornecido no desafio.
 
@@ -36,8 +36,8 @@ Vitrine de produtos desenvolvida em **React + TypeScript** com **SASS/SCSS**, co
 
 ```bash
 # 1) clonar o repositório
-git clone https://github.com/GabrielMA0/teste-front-end.git
-cd teste-front-end/gabriel-moreira-araujo
+git clone https://github.com/Gilmar1212/teste-front-end-gilmar.git
+cd teste-front-end/
 
 # 2) instalar dependências
 npm install
